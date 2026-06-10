@@ -64,7 +64,6 @@ Mission:
 ### Cybersecurity & AI
 
 ![MITRE ATT\&CK](https://img.shields.io/badge/MITRE_ATT%26CK-DC2626?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-059669?style=for-the-badge)
 ![Threat Detection](https://img.shields.io/badge/Threat_Detection-B91C1C?style=for-the-badge)
 
 ### Backend & Product Engineering
@@ -136,11 +135,6 @@ Admission Intelligence Platform
 
 ---
 
-## 🤝 Connect
-
-<p align="center">
-
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/prathik-v-t-gowda-893007299/)">LinkedIn</a> • <a href="YOUR_GITHUB">GitHub</a> • <a href="[YOUR_INSTAGRAM](https://x.com/PrathikVTgowda)">X</a>
 
 </p>
 
