@@ -1,125 +1,162 @@
-<h1 align="center">Hi 👋, I'm Prathik V T Gowda</h1>
+<div align="center">
 
-<h3 align="center">
-Hardware + Software Engineer | AI • IoT • Cybersecurity • Full Stack Development
-</h3>
+# 👋 Hey, I'm Prathik V T Gowda
+
+### Hardware × Software Engineer
+
+Building intelligent systems where robotics, cybersecurity, AI, and embedded electronics converge.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Embedded+Systems+Engineer;Cybersecurity+Builder;Robotics+Developer;Full+Stack+Product+Engineer;Turning+Ideas+Into+Products" />
+
+</div>
+
+---
+
+## 🚀 Engineering Focus
 
 <p align="center">
-ECE Student @ JNNCE, Shimoga (2027)
+
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-000000?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-0A66C2?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-EA4335?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-7B61FF?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-16A34A?style=for-the-badge)
+
 </p>
 
 ---
 
-## 🚀 About Me
+## 💡 About Me
 
-I am an Electronics & Communication Engineering student at JNNCE, Shimoga, passionate about building intelligent systems that combine hardware and software.
+```yaml
+Name: Prathik V T Gowda
+Degree: Electronics & Communication Engineering
+University: JNNCE, Shimoga
+Graduation: 2027
 
-My projects range from autonomous GPS-powered robots and smart farm security systems to AI-driven cybersecurity platforms and large-scale event management solutions. I enjoy transforming ideas into practical products that solve real-world problems.
+Passion:
+  - Embedded Systems
+  - Autonomous Robotics
+  - Cybersecurity
+  - Product Development
 
-* 🤖 Building AI, IoT and Robotics solutions
-* 🛡️ Interested in Cybersecurity & Threat Detection
-* 🌐 Full Stack Developer
-* 🔬 NPTEL Certified in VLSI Design, Verilog and Python
-* 🚀 Always learning, building and experimenting
+Mission:
+  Build products that connect the physical and digital world.
+```
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Technology Landscape
 
 ### Languages
 
-Python • C • C++ • HTML • CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-### Hardware & Embedded Systems
+### Embedded & Robotics
 
-Arduino Mega • Arduino Nano • ESP32-CAM • RFID • GPS Modules • Sensors • Servo Motors
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-1D4ED8?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-7C3AED?style=for-the-badge)
 
-### Cybersecurity
+### Cybersecurity & AI
 
-Threat Detection • MITRE ATT&CK • Incident Response • Network Analysis
+![MITRE ATT\&CK](https://img.shields.io/badge/MITRE_ATT%26CK-DC2626?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-059669?style=for-the-badge)
+![Threat Detection](https://img.shields.io/badge/Threat_Detection-B91C1C?style=for-the-badge)
 
-### Web & Tools
+### Backend & Product Engineering
 
-Flask • Streamlit • MySQL • Firebase • GitHub
-
----
-
-## 📌 Featured Projects
-
-### 🛡️ CipherShield
-
-AI-Driven Threat Detection & Simulation Engine
-
-* Live cyber attack simulations
-* AI-generated response playbooks
-* MITRE ATT&CK mapping
-* Automated PDF incident reports
-
-**Tech:** Python, Flask, Streamlit, ML, ReportLab
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 
 ---
 
-### 🤖 Eco Smart Bin
+# 🚀 Featured Projects
 
-GPS-Powered IoT Waste Collection Robot
+## 🛡️ CipherShield
 
-* Autonomous GPS navigation
-* Robotic waste collection
-* Automated disposal system
-* 90%+ pickup accuracy
+AI-Powered Threat Detection & Simulation Platform
 
-**Tech:** Arduino Mega, GPS, Sensors, Servo Motors
-
----
-
-### 🏆 Recruit-X
-
-Flagship Recruitment Platform – JNNCE Mysterio 6.0
-
-* Real-time judge scoring
-* Automated certificate generation
-* Complete event management platform
-
-**Tech:** MySQL, HTML/CSS, PDF Generation
+✔ Live Attack Simulations
+✔ MITRE ATT&CK Mapping
+✔ AI Incident Playbooks
+✔ Automated Forensic Reports
 
 ---
 
-### 🌿 Smart Farm Safety System
+## 🤖 Eco Smart Bin
 
-* RFID-based access control
-* Motion detection
-* Telegram alerts
-* Remote monitoring
+Autonomous GPS Waste Collection Robot
 
-**Tech:** ESP32-CAM, Arduino Nano, RFID, Telegram API
-
----
-
-### 📊 CET Rank Predictor (In Progress)
-
-* College prediction
-* Admission probability analysis
-* Performance insights
-
-**Tech:** Python, ML, Data Analytics
+✔ GPS Navigation
+✔ Intelligent Waste Detection
+✔ Automated Collection System
+✔ Self-Dumping Mechanism
 
 ---
 
-## 🏆 Achievements
+## 🏆 Recruit-X
 
-* Top 12 Finalist – Hack Malenadu 2026
-* 3rd Place – Arduino Clash (Sigma, JNNCE)
-* Winner – Kerbal Space Challenge (Adithya 2K25)
-* 3rd Place – Line Follower (Techzone 2K25)
-* Event Coordinator – Recruit-X, Mysterio 6.0
-* 3× NPTEL Certified
+Digital Recruitment Infrastructure
+
+✔ Judge Evaluation Engine
+✔ Real-Time Scoring
+✔ Certificate Automation
+✔ Event Management Platform
 
 ---
 
-## 📫 Connect With Me
+## 🌿 Smart Farm Safety System
 
-* LinkedIn
-* GitHub
-* Email
+RFID-Based Intelligent Security Architecture
 
-> "Building products where hardware meets intelligence."
+✔ Access Control
+✔ Intrusion Detection
+✔ Telegram Alert System
+✔ Remote Monitoring
+
+---
+
+## 📊 CET Rank Predictor
+
+Admission Intelligence Platform
+
+✔ Rank Prediction
+✔ College Forecasting
+✔ Branch Probability Analysis
+✔ AI-Based Insights
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">LinkedIn</a> • <a href="YOUR_GITHUB">GitHub</a> • <a href="YOUR_INSTAGRAM">Instagram</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Building products where hardware meets intelligence.
+
+</div>
