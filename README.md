@@ -133,15 +133,6 @@ Admission Intelligence Platform
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -149,7 +140,7 @@ Admission Intelligence Platform
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">LinkedIn</a> • <a href="YOUR_GITHUB">GitHub</a> • <a href="YOUR_INSTAGRAM">Instagram</a>
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/prathik-v-t-gowda-893007299/)">LinkedIn</a> • <a href="YOUR_GITHUB">GitHub</a> • <a href="[YOUR_INSTAGRAM](https://x.com/PrathikVTgowda)">X</a>
 
 </p>
 
